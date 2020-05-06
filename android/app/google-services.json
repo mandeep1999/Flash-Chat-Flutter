@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460320291421",
+    "firebase_url": "https://flashchat-e8e3d.firebaseio.com",
+    "project_id": "flashchat-e8e3d",
+    "storage_bucket": "flashchat-e8e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460320291421:android:fcc690ef2d4480f4462bb4",
+        "android_client_info": {
+          "package_name": "co.mandeep.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460320291421-lb7hcrfmtvk14v7g6vn1ia7iqh43mgeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVGvE5qaz1dsa15x43bN7Gv917XSas8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460320291421-lb7hcrfmtvk14v7g6vn1ia7iqh43mgeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
